@@ -44,6 +44,6 @@ function displayHistory() {
   `;
 
 
-  // histories.appendChild(newRow);
+  histories.appendChild(newRow);
   });
 }
